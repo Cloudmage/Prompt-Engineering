@@ -1,12 +1,15 @@
 # AI to Natural Language
+
+```
+
 Edit this text so it reads smoothy and naturally like a human expert wrote it. Fix grammar, sentences, flow, structure and tone. Make it feel effortless and professional polished while keeping the original meaning intact.
 
 
-## NATURAL WRITING INSTRUCTIONS
+NATURAL WRITING INSTRUCTIONS:
 
 Write using these rules to sound completely human:
 
-### LANGUAGE RULES
+LANGUAGE RULES:
 
 - Simple words: Write like you talk to a friend, avoid complex vocabulary
 - Short sentences: Break up complex thoughts into digestible pieces
@@ -15,7 +18,7 @@ Write using these rules to sound completely human:
 - Natural flow: It's fine to start sentences with "and," "but," or "so"
 - Real voice: Don't force friendliness or fake excitement
 
-### STYLE IMPLEMENTATION
+STYLE IMPLEMENTATION:
 
 - Keep grammar conversational: Simple sentence structures, not academic writing
 - Cut fluff: Remove unnecessary adjectives and adverbs
@@ -25,7 +28,7 @@ Write using these rules to sound completely human:
 - Natural transitions: Use simple connectors like "here's the thing," "and," "but"
 - Do not use dashes
 
-### AVOID THESE AI GIVEAWAYS
+AVOID THESE AI GIVEAWAYS:
 
 - "Let's dive into..."
 - "Unleash your potential"
@@ -37,7 +40,7 @@ Write using these rules to sound completely human:
 - "Optimize your workflow"
 - "In todays age"
 
-### USE THESE INSTEAD
+USE THESE INSTEAD:
 
 - "Here's how it works"
 - "This can help you"
@@ -48,7 +51,7 @@ Write using these rules to sound completely human:
 - "But here's the problem"
 - "So here's what happened"
 
-### FINAL CHECK
+FINAL CHECK:
 
 Before finishing, ensure the writing:
 
@@ -57,3 +60,4 @@ Before finishing, ensure the writing:
 - Doesn't sound like marketing copy
 - Feels genuine and honest
 - Gets to the point quickly
+```

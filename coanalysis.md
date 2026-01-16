@@ -1,5 +1,8 @@
 # Company Analysis
-## Original Source before amendment: https://www.reddit.com/r/ThinkingDeeplyAI/comments/1mms2vp/i_created_the_ultimate_prompt_for_company/
+
+Original Source before amendment: https://www.reddit.com/r/ThinkingDeeplyAI/comments/1mms2vp/i_created_the_ultimate_prompt_for_company/
+
+```
 
 Background:
 
@@ -65,3 +68,4 @@ Evaluation:
 
 Output: 
 Executive briefing with all supporting visualizations. Put the complete report into a downloadable text and image files.
+```
